@@ -1,2 +1,4 @@
 en,kr
 parallel programming,병렬 프로그래밍
+pre condition,선행 조건
+post condition,후행 조건
