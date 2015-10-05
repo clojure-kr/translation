@@ -1,4 +1,4 @@
-binding 묶기/묶겨진 값 (상황에 따라)
+binding 바인딩
 boolean 불린
 Clojure 클로저
 collection 컬렉션
