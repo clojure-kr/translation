@@ -1,0 +1,56 @@
+binding 묶기/묶겨진 값 (상황에 따라)
+boolean 불린
+Clojure 클로저
+collection 컬렉션
+destructuring 논의중: 인수분해, 인자분해, 구조분해, 추려뽑기, 요소분해, 선택분해, 골라내기, 골라뽑기
+expression 식
+  test expression 검사식
+  regular expression 정규식
+  symbolic expression 심볼식
+statement 논의중: 구문, 문
+form 형식
+test 검사하다
+absence 없음
+parameter 인자
+argument 인자
+predicate 진위함수
+modifier 수정자
+atom 아톰
+ref 레퍼런스
+agent 에이전트
+idiomatic 일반적
+deref 역참조하다
+consistent 무모순적
+coordinated 조화로운
+synchronous 동기적
+concurrency 병행성
+concurrent 병행적인
+route 라우트
+web server 웹 서버
+namespace 이름공간
+transducer 변환자
+dependency 의존성
+name space 이름공간
+vector 벡터
+sequence 시퀀스
+list 리스트
+set 집합
+string 문자열
+persistent 존속적
+channel 채널
+lazy 지연
+  lazy sequence 지연 시퀀스
+  lazy evaluation 지연 평가
+  nonlazy 비지연
+evaluation 평가
+reduce 환원하다
+fully qualifyed name 완전한 이름
+quote 인용
+  unquote 논의중: 비인용, 평가
+  syntax-quote 논의중: 문법 인용, 구문 인용
+ClojureScript 클로저스크립트
+interop 가져다 쓰기 or 가져다쓰기
+side effect 부수효과
+thread 스레드
+import 불러오기
+data 데이터
