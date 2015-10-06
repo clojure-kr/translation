@@ -1,2 +1,4 @@
 en,kr
 string,문자열
+special operator,특수 연산자
+syntax-quote,구문 인용

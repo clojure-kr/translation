@@ -1,9 +1,11 @@
 en,kr
 clojure,클로저
 concurrent programming,병행 프로그래밍
+concurrency,동시성
 concise,축약
 clarity,명료성
 consistency,일관성
 composite type,복합 타입
 control structure,제어 구조
 commutativity,교환(법칙)
+contention,경합
