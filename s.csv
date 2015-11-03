@@ -1,4 +1,5 @@
 en,kr
 string,문자열
 special operator,특수 연산자
-syntax-quote,구문 인용
+syntax-quote,문법 인용
+signature,원형
